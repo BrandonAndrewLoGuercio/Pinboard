@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Pinboard: development" uuid="7307394a-9d74-47db-9c42-3e0459b959f3">
+      <schema-pattern>Pinboard_development.*</schema-pattern>
+      <default-schemas>Pinboard_development.*</default-schemas>
+    </data-source>
+    <data-source name="Rails Pinboard: test" uuid="e1c00b9e-3465-4487-b26a-2ef6e15dfb2e">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails Pinboard: production" uuid="cc1e3ef0-3e52-4159-af48-01c5f86ee7f8">
+      <first-sync>true</first-sync>
+      <user-name>Pinboard</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffadfe3dfe4dfe8dfe5dfebdff8dfeedff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
